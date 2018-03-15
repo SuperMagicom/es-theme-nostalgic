@@ -51,6 +51,7 @@ The following system folders are currently supported...
 * NEC PC-Engine
 * NEC PC-Engine CD
 * Sony PSP
+* PC (MS-Dos)
 * PSP Minis
 * Sony PlayStation (PSX)
 * Sega 32X
@@ -72,6 +73,18 @@ More systems may be added in the future.
 
 Marquee graphics are supported for arcade-based systems if they are present in your gamelist.xml file.
 
+## Screenshots
+
+![alt text](https://i.imgur.com/d9IIFOx.jpg)
+
+![alt text](https://i.imgur.com/ptaFE7f.jpg)
+
+![alt text](https://i.imgur.com/97iUrL7.jpg)
+
+![alt text](https://i.imgur.com/bv1f9lf.jpg)
+
+![alt text](https://i.imgur.com/8S3UJqa.jpg)
+
 ## Installation
 
 Install from the Retopie setup menu or by copying the unarchived "nostalgic" folder and all of the contents to
@@ -82,7 +95,7 @@ Install from the Retopie setup menu or by copying the unarchived "nostalgic" fol
 
 If this folder does not exist you may create it.
 
-IMPORTANT: I recommend keeping EmulationStation's VRAM setting at 80. This theme uses 1080p images for each system and the WSOD (White Screen of Death) fix seems to only work correctly when VRAM is at 80.
+**IMPORTANT:** I recommend keeping EmulationStation's VRAM setting at 80. This theme uses 1080p images for each system and the WSOD (White Screen of Death) fix seems to only work correctly when VRAM is at 80.
 
 
 ## Acknowledgments

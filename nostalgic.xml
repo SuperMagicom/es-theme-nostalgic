@@ -28,8 +28,9 @@ version         1.0
 		</image>
 		
 		<carousel name="systemcarousel">
-			<color>00000000</color>
-				<logoScale>1.0</logoScale>
+			<color>ffffff00</color>
+				<logoScale>2.5</logoScale>
+				<logoSize>0.15 0.08</logoSize>
 				<maxLogoCount>3</maxLogoCount>
 			</carousel>	
 		

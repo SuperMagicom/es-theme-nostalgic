@@ -83,6 +83,19 @@ More systems may be added in the future.
 
 Marquee graphics are supported for arcade-based systems if they are present in your gamelist.xml file.
 
+
+## Screenshots
+
+![alt text](https://i.imgur.com/d9IIFOx.jpg)
+
+![alt text](https://i.imgur.com/ptaFE7f.jpg)
+
+![alt text](https://i.imgur.com/97iUrL7.jpg)
+
+![alt text](https://i.imgur.com/bv1f9lf.jpg)
+
+![alt text](https://i.imgur.com/8S3UJqa.jpg)
+
 ## Installation
 
 Install from the Retopie setup menu or by copying the unarchived "nostalgic" folder and all of the contents to

@@ -22,6 +22,7 @@ The following system folders are currently supported...
 * Favorites
 * Last Played
 * Colecovision
+* Commodore 64
 * Custom Collections
 * Daphne
 * Sega Dreamcast
@@ -29,6 +30,8 @@ The following system folders are currently supported...
 * Final Burn Alpha
 * Famicom Disk System
 * Nintendo Game & Watch
+* Nintendo Gamecube
+* Nintendo WII
 * Sega Game Gear
 * Game Boy
 * Game Boy Hacks
